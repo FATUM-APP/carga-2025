@@ -1,0 +1,30 @@
+{
+  "service_ids": [
+    "38a11e3a-ad1b-44e6-98a3-0d8aa75f5022",
+    "808f2daf-2abd-4f43-b325-c2d3edc6302b",
+    "821dd5e6-914f-4bc4-a8f8-e081a6564674",
+    "6c799815-39d0-44a4-b4ea-16b760c86939",
+    "12c6e856-a37a-4658-a598-57b4258d0548",
+    "72d75419-6c4b-4e64-ac7d-bcc4ccc7f7bc",
+    "b44b034e-d42d-42ef-b2a8-9925e237c269",
+    "71c4e773-b296-4484-bac9-ad9841ddf0f8",
+    "2a123683-cb69-41d2-9f03-9ba7e7303fdb",
+    "391d798d-b9b2-4694-b978-a83d70650948",
+    "db7c10b9-3f42-4484-9ed0-09927797da7f",
+    "5b3ca7c5-385c-4d13-bbb5-4e51bf8c85b9",
+    "c8a8cbe9-1423-47ee-9c9d-cb6ca024a0e1",
+    "4b9f7fb6-653d-4baa-9ea0-1ff84c7bf4e0",
+    "5085742f-f223-46c5-a5c9-a83993c2cd84",
+    "5a535c11-6b1e-410e-a0db-f1eaed4feb3f",
+    "a7f200c8-2e91-4524-9e1f-bc7e78480b93",
+    "c03381ad-f9ba-4cea-910c-3f5c3fa776cb",
+    "3cafe36c-b82b-48ab-ac7a-a2a6ace1d4dd"
+  ],
+  "client_ids": [
+    "59641cc7-5eb3-4934-8424-2b7ebef2bf5b",
+    "00fe57fe-b301-4d4d-bb3e-e3df11fa59b9",
+    "5b9b0e96-1ae5-464a-aa89-4200ef3e3e9e",
+    "86cd679c-60a4-46b8-b29b-699c6950916d",
+    "7feba530-646d-427a-88c5-5a901d744c0e"
+  ]
+}

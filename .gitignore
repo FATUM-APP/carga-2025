@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+conexion.env
+.env
+plan*.json
+*.dump
+*.log
+edades_antes_seed.csv
+# Añadir estas líneas al .gitignore existente de tu carpeta de carga.
+retiro_*.json
+plan_*.json
+perfiles_esperados_*.json
+*.dump
+conexion.env
+.env
+*.pem
+__pycache__/
+.venv/
